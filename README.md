@@ -1,14 +1,13 @@
 ### Olá! bem vindo ao meu perfil!
 
-- 🔭 Atualmente desenvolvo utilizando majoritariamente JavaScript
-- 🌱 Estou estudando js, css, html e kotlin
-- 📫 contato: mauriciososmaiarnascimento@gmail.com
-- 😄 Pronomes: Ele/Dele
+- Atualmente desenvolvo utilizando majoritariamente JavaScript
+- Estou estudando js, css, html e kotlin
+- Contato: mauriciososmaiarnascimento@gmail.com
 
 <div align="center">
   <a href="https://github.com/m4uriciosn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4uriciosn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4uriciosn&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4uriciosn&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4uriciosn&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <div style="display: inline_block"><br>

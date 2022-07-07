@@ -1,7 +1,7 @@
 ### Olá! bem vindo ao meu perfil!
 
 - Atualmente desenvolvo utilizando JavaScript
-- Estou estudando js, css, html, React e kotlin
+- Estudando js, css, html, React e kotlin
 - Contato: mauriciososmaiarnascimento@gmail.com
 
 <div align="center">
